@@ -1,5 +1,9 @@
 # GraphQL C++
 
+![alt c++](https://img.shields.io/badge/c%2B%2B-17-blue.svg)
+[![GitHub release](https://img.shields.io/github/release/DavidUser/GraphQL-Cpp.svg)](https://github.com/DavidUser/GraphQL-Cpp)
+[![license](https://img.shields.io/github/license/daviduser/GraphQL-Cpp.svg)](https://github.com/DavidUser/GraphQL-Cpp)
+
 This is a [GraphQL] server library to simple create your API using [modern C++](http://awesomecpp.com/).
 
 [<img src="http://graphql.org/img/logo.svg" alt="GraphQL" width="230px">][GraphQL]
