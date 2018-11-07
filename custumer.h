@@ -12,4 +12,10 @@ struct Custumer {
   string email;
   unsigned short age;
   std::vector<Purchase> purchases;
+
+  operator std::string() {
+    // TODO(DavidUser): Move json strigfy outer this class and generic
+    return "{ id: \"" + id + "\", name: \"" + name + "\", email: \"" + email +
+           "\", age: " + std::to_string(age) + " }";
+  }
 };
