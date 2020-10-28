@@ -15,7 +15,7 @@ Help you to build the fastest GraphQL server APIs at an easy, readable and relia
 
 ### Current Status
 
-Concept, doing mockup's about who should be the user exeperience.
+Concept, doing mockup's about how should be the user exeperience.
 
 Review the code in [main.cpp](main.cpp), feel free to do your sugestions creating a [**issue**](https://github.com/DavidUser/GraphQL-Cpp/issues) or [fork](https://github.com/DavidUser/GraphQL-Cpp/fork) and making a [**pull request**](https://github.com/DavidUser/GraphQL-Cpp/pulls).
 
